@@ -1,8 +1,10 @@
 # Everyday Carry — Planning Experience
 
+**Explore online:** [Open the public browser experience](https://luckygithub777.github.io/edc-carry-planning-experience/). Use the public interactive planning website; retail prices and hardware tests are not supplied.
+
 A small self-contained kit planner with four original field guides. Start with what you already own, choose a carrying format and an **illustrative budget**, then export or print a possible kit. No live retail prices or product test claims are made.
 
-## Explore locally
+## Optional local development
 
 From this repository, serve the static files with:
 
