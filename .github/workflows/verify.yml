@@ -1,4 +1,4 @@
-name: Verify offline carry planner
+name: Verify public carry planner
 on:
   push:
     branches: [main]
